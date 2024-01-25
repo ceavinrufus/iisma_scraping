@@ -1,0 +1,786 @@
+[
+  {
+    "University": "Boston University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "84",
+    "DET": "115"
+  },
+  {
+    "University": "Arizona State University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "115"
+  },
+  {
+    "University": "The University of Pennsylvania",
+    "GPA": "3.3",
+    "IELTS": "7.0",
+    "TOEFL": "100",
+    "DET": "120"
+  },
+  {
+    "University": "Yale University",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "100",
+    "DET": "120"
+  },
+  {
+    "University": "Penn State University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "80",
+    "DET": "120"
+  },
+  {
+    "University": "University of California, Davis",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "80",
+    "DET": "115"
+  },
+  {
+    "University": "UC Chile",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Michigan State University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "79",
+    "DET": "110"
+  },
+  {
+    "University": "University of Colorado Boulder",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "78",
+    "DET": "120"
+  },
+  {
+    "University": "University of British Columbia",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "125"
+  },
+  {
+    "University": "University of Waterloo",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "120"
+  },
+  {
+    "University": "Western University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "83",
+    "DET": "115"
+  },
+  {
+    "University": "The University of Chicago",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "104",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Texas at Austin",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Cornell University",
+    "GPA": "3.0",
+    "IELTS": "7.5",
+    "TOEFL": "100",
+    "DET": "120"
+  },
+  {
+    "University": "University of Michigan",
+    "GPA": "3.5",
+    "IELTS": "7.0",
+    "TOEFL": "100",
+    "DET": "130"
+  },
+  {
+    "University": "New York University",
+    "GPA": "3.0",
+    "IELTS": "7.5",
+    "TOEFL": "100",
+    "DET": "125"
+  },
+  {
+    "University": "Georgetown University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "University of Toronto",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "89",
+    "DET": "120"
+  },
+  {
+    "University": "Osaka University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "110"
+  },
+  {
+    "University": "Singapore Management University",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "93",
+    "DET": "125"
+  },
+  {
+    "University": "Hanyang University\n(Seoul Campus)",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "120"
+  },
+  {
+    "University": "Korea University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Universiti Malaya",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Universiti Kebangsaan Malaysia",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "115"
+  },
+  {
+    "University": "Universiti Sains Malaysia",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "100"
+  },
+  {
+    "University": "Nanyang Technological University",
+    "GPA": "3.3",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Keio University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "National Taiwan University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Chulalongkorn University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "105"
+  },
+  {
+    "University": "Middle East Technical University",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "79",
+    "DET": "100"
+  },
+  {
+    "University": "Sophia University",
+    "GPA": "3.3",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "National University of Singapore",
+    "GPA": "3.5",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "National Cheng Kung University (NCKU)",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "National Taiwan Normal University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "80",
+    "DET": "120"
+  },
+  {
+    "University": "National Sun Yat-sen University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Prince of Songkla University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Mahidol University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "The Australian National University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "The University of Adelaide",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "79",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "The University of Queensland",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "87",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Sydney",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "85",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Auckland",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Melbourne",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "Not accepted",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Monash University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "125"
+  },
+  {
+    "University": "The University of Western Australia",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "82",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Otago",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Victoria University of Wellington",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "110"
+  },
+  {
+    "University": "University of New South Wales",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Canterbury ",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Massey University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Waikato",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "105"
+  },
+  {
+    "University": "Vrije Universiteit Amsterdam",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Leiden University",
+    "GPA": "3.2",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Maastricht University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "105"
+  },
+  {
+    "University": "KU Leuven",
+    "GPA": "3.3",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Szeged",
+    "GPA": "3.2",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "University of Pisa",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "80",
+    "DET": "100"
+  },
+  {
+    "University": "Humboldt-Universit\u00e4t zu Berlin",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "105"
+  },
+  {
+    "University": "University of Zagreb",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "University of Warsaw",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "M.V.Lomonosov Moscow State University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Radboud University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Vytautas Magnus University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "87",
+    "DET": "100"
+  },
+  {
+    "University": "Sciences Po",
+    "GPA": "3.6",
+    "IELTS": "6.5",
+    "TOEFL": "100",
+    "DET": "135"
+  },
+  {
+    "University": "Universitat Pompeu Fabra",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "115"
+  },
+  {
+    "University": "Sapienza University of Rome",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "110"
+  },
+  {
+    "University": "University of Padua",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Universidad Aut\u00f3noma de Madrid",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Groningen",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Belarusian State University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Aalto University",
+    "GPA": "3.3",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of P\u00e9cs",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "University of Siena",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "94",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Technische Universit\u00e4t Dresden",
+    "GPA": "3.3",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "120"
+  },
+  {
+    "University": "Aix-Marseille University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Universit\u00e9 de Caen Normandie",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Charles University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Saint Petersburg State University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "RUDN University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "125"
+  },
+  {
+    "University": "Higher School of Economics National Research University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "78",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Information Technologies, Mechanics and Optics (ITMO) University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "University of Granada",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "100"
+  },
+  {
+    "University": "KTH Royal Institute of Technology",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "120"
+  },
+  {
+    "University": "Lund University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Palack\u00fd University Olomouc",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "Lancaster University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "87",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Leicester",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "110"
+  },
+  {
+    "University": "University of Galway",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "88",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Birmingham",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "88",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Newcastle University",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "Not accepted",
+    "DET": "120"
+  },
+  {
+    "University": "University of Edinburgh",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University College Dublin",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "120"
+  },
+  {
+    "University": "University College Cork - National University of Ireland",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "120"
+  },
+  {
+    "University": "University of Glasgow",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "82",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Liverpool",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "88",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Leeds",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "88",
+    "DET": "110"
+  },
+  {
+    "University": "University of Sussex",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "80",
+    "DET": "120"
+  },
+  {
+    "University": "University of Warwick",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "87",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of York",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "87",
+    "DET": "120"
+  },
+  {
+    "University": "University College London",
+    "GPA": "3.3",
+    "IELTS": "7.0",
+    "TOEFL": "96",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Queen Mary University of London",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "Not accepted",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "The University of Manchester",
+    "GPA": "3.0",
+    "IELTS": "7.0",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Durham University",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "The University of Sheffield",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "88",
+    "DET": "120"
+  },
+  {
+    "University": "Loughborough University",
+    "GPA": "3.7",
+    "IELTS": "6.5",
+    "TOEFL": "92",
+    "DET": "120"
+  },
+  {
+    "University": "University of Bath",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "120"
+  },
+  {
+    "University": "University of Limerick",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "78",
+    "DET": "100"
+  },
+  {
+    "University": "University of Southampton",
+    "GPA": "3.0",
+    "IELTS": "6.0",
+    "TOEFL": "92",
+    "DET": "125"
+  },
+  {
+    "University": "Queen's University Belfast",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "University of Bristol",
+    "GPA": "3.0",
+    "IELTS": "6.5",
+    "TOEFL": "90",
+    "DET": "Not accepted"
+  }
+]
