@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Boston University",
+    "Name": "Boston University Metropolitan College",
     "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2022/02/Boston-Univ.png?fit=300%2C300&ssl=1",
     "Location": "Boston, Massachusetts, USA",
     "Description": "the MET International Undergraduate Program provides visiting Indonesian students access to the courses, services, and programs of a world-class university through a specialized office, whose mission is to support students in their immersion in the BU and Boston community. The University and city at large provide ample opportunity for students to advance their professional interests through formal academic and extracurricular programming, as well as networking and professional activities across the city. Beyond the world-class services available to visiting students, the city of Boston itself is an excellent place for students to experience the independence of studying abroad. QS has ranked Boston as the number one student city in the U.S. for five years running due to its excellent public transportation, cultural life, green space, and safe neighborhoods. Young people from all over the world come to this metropolitan area that is home to over 250,000 college and university students. The Boston area has all the draws of a big city, but has less than 5 million inhabitants, making it far more accessible and manageable than larger US cities, all while affording young people the opportunity to explore and live independently.",
@@ -184,7 +184,7 @@
     "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2022/02/Singapore-Management-University.png?fit=300%2C300&ssl=1",
     "Location": "Singapore",
     "Description": "Singapore Management University (SMU) is internationally recognised for its world-class research and distinguished teaching. Established in 2000, SMU\u2019s mission is to generate leading-edge research with global impact and produce broad-based, creative and entrepreneurial leaders for the knowledge-based economy.SMU\u2019s city campus is a state-of-the-art facility located in the heart of downtown Singapore, fostering strategic linkages with business, government and the wider community.\u2013 SMU is ranked 38th globally for Business & Management Studies in Quacquarelli Symonds (QS) World University Rankings by Subject\u2013 #12 among specialist universities worldwide\u2013 12,666 undergrad and postgrad students\u2013 388 globally diverse faculty",
-    "Official Link": "smu.edu.sg/global",
+    "Official Link": "geo.smu.edu.sg",
     "IISMA Link": "https://iisma.kemdikbud.go.id/info/74-singapore-management-university/",
     "Region": "Asia"
   },
@@ -294,6 +294,15 @@
     "Description": "Sophia University leads the internationalization of higher education in Japan, providing innovative educational opportunities that take our increasingly complex world into account.Over the years, Sophia University has developed a strong global network that attracts researchers and students from overseas to teach and study in Japan, and Japanese researchers and students to do the same abroad.Sophia University provides an excellent educational environment in the era of internationalization, cultivating our mission \u201cFor Others, with Others\u201d so that we can excel on the global stage.Students are expected to be enrolled in the Faculty of Liberal Arts or the Faculty of Science and Technology.",
     "Official Link": "www.ucl.ac.uk",
     "IISMA Link": "https://iisma.kemdikbud.go.id/info/s98-sophia-university/",
+    "Region": "Asia"
+  },
+  {
+    "Name": "Taipei Medical University",
+    "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2024/01/Taipei-Medical-Uni.png?fit=300%2C300&ssl=1",
+    "Location": "Taipei, Taiwan",
+    "Description": "Taipei Medical University Short-Term Exchange Program (TMU-STEP) provides an opportunity for students from universities around the world to study at TMU for one or two semesters. TMU-STEP consists of a wide variety of English-taught classes in Health Sciences, conducted onsite and/or remotely.Students have a wide range of course options in fields such as Medicine, Oral Medicine, Pharmacy, Nursing, Public Health, Nutrition, Biomedical Engineering, Medical Sciences and Technology, Humanities and Social Sciences, Healthcare Management, Interdisciplinary Studies, and General Education.For onsite participation, in addition to professional courses, students attending TMU-STEP courses may also sign up for fee-charging Chinese language courses when available. There will also be opportunities to take part in numerous traditional and contemporary Taiwanese cultural activities.",
+    "Official Link": "eng.tmu.edu.tw/",
+    "IISMA Link": "https://iisma.kemdikbud.go.id/info/s117-taipei-medical-university-tmu/",
     "Region": "Asia"
   },
   {
@@ -670,7 +679,7 @@
     "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2024/01/Siena.png?fit=300%2C300&ssl=1",
     "Location": "Italy",
     "Description": "Welcome to the University of Siena: Your Gateway to Excellence in Higher Education and Cultural EnrichmentUSiena presents a comprehensive disciplinary spectrum, with its 14 Departments, about 70 degree programs (BA and MA), 23 PhD programs and several vocational and professional courses. 18 programs \u2013 most of them 2-year masters \u2013 are fully offered in English, while 17 Double Degree Programs are held in cooperation with 15 universities abroad. Moreover the University of Siena can count on a network of 6 museums, 1 language center and 5 branch libraries covering all subject areas.Why studying in Siena?The University, located in the historic city of Siena in Italy, is an attractive choice for higher education for various reasons. Tradition and Prestige: Established in 1240, the University of Siena is one of the oldest universities in Italy and Europe. It has a rich history and a longstanding reputation for academic excellence. Diverse Course Offerings: The University of Siena offers a wide range of undergraduate, graduate, and postgraduate programs in various disciplines, including humanities, sciences, medicine, engineering, economics and social sciences. This allows students to pursue their interests and career goals.",
-    "Official Link": "www.ucl.ac.uk",
+    "Official Link": "https://en.unisi.it/",
     "IISMA Link": "https://iisma.kemdikbud.go.id/info/s97-university-of-siena/",
     "Region": "Europe"
   },
@@ -679,7 +688,7 @@
     "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2024/01/Dresden.png?fit=300%2C300&ssl=1",
     "Location": "Dresden, Germany",
     "Description": "TUD Dresden University of Technology is one of the largest Universities of Technology in Germany and is among the leading and most dynamic universities in the country. With 17 Faculties across five Schools, it offers a widespread range of 119 degree programs and covers a broad spectrum of research. Its focuses on Life Sciences, Quantum Materials, Microelectronics, Tactile Internet, Materials Science, Data-Intensive and Digital Sciences, Circular Economy and Societal Change are considered exemplary across Europe.About 30,000 students are enrolled at TUD. Internationally, TUD has earned an excellent reputation. About 18% of its students come from abroad. Today, about 9,000 employees from 89 countries work at TU Dresden. Since 2012, TUD has been one of the eleven German Universities of Excellence. There is a longstanding cooperation with Indonesian HEIs with focus on engineering education and Vocational Education Teacher Training offering programs for postgraduates, doctoral scholars and specialists from selected professional domains. Via the TU Dresden Institute for Further and Continuing Education a high quality program is now offered for applicants from IISMA, provding state of the art competence development in the sector of engineering and vacational education with some components of exposure to German industries.",
-    "Official Link": "www.ucl.ac.uk",
+    "Official Link": "https://tu-dresden.de/#",
     "IISMA Link": "https://iisma.kemdikbud.go.id/info/s99-technische-universitat-dresden/",
     "Region": "Europe"
   },
@@ -688,7 +697,7 @@
     "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2024/01/Aix-Marseille.png?fit=300%2C300&ssl=1",
     "Location": "France",
     "Description": "Aix-Marseille Universit\u00e9 (AMU) is the largest multidisciplinary university in the French-speaking world, with 80,000 students and nearly 8,000 staff on 5 major campuses meeting international standards. Owner of 90% of its property, the university is present in 9 cities, in 4 departments of the South of France. Its A*Midex University Foundation, which supports the ongoing IDEX, is helping to develop a world-class interdisciplinary higher education and research cluster. Known as a \u201cresearch-intensive university\u201d, it is home to 122 research structures linked to major national research organizations.Aix-Marseille Universit\u00e9 is committed to interdisciplinarity, which is at the heart of its development strategy, and has recently created 18 \u201cinstituts d\u2019\u00e9tablissement\u201d (institutes of higher education), guaranteeing bridges between research and education, and a broad international outlook. Local partnerships such as the Cit\u00e9 de l\u2019Innovation et des Savoirs Aix-Marseille (CISAM), the P\u00f4les d\u2019Innovation Territoriaux (PIT) and the technology platforms in partnership with the CNRS and INSERM bear witness to AMU\u2019s commitment to innovation and its contribution to the creation of societal wealth. High-quality training courses, backed up by major research teams, accompanied by measures to encourage student entrepreneurship, and the possibility for economic players to access these resources, are all levers for regional development and influence.As a responsible university, Aix-Marseille Universit\u00e9 makes \u201cliving well together\u201d a priority. Its commitment to sustainable development in all its dimensions \u2013 human, environmental and patrimonial \u2013 is embodied in a number of actions and measures: a travel plan, a waste management plan, raising students\u2019 awareness of the climate emergency and introducing a sustainable development bonus, the creation of the AMU Climate Council, as well as measures to combat sexual, sexist and homophobic harassment, the application of a master plan for the disabled, measures to combat racism and anti-Semitism, and numerous sports and festive events on campus. Widely open to the world, with 10,000 international students and more than 40 internationally-partnered degrees, AMU recently won the European Commission\u2019s call for projects to build \u201cCIVIS, a European Civic University\u201d with its 9 European partners, contributing to major societal challenges with a particular focus on Africa and the Mediterranean.Created on January 1, 2012, Aix-Marseille Universit\u00e9 (AMU) can legitimately consider, at the end of an initial period 2012-2017 largely devoted to structuring the single university, that it has met the major challenge it set itself: to successfully merge the three universities in the region and give birth to a major university of world renown.AMU is now a research-intensive university that has forged partnerships all over the world, asserted its roots and territorial integration, and ranks among France\u2019s top universities in the Shanghai rankings. AMU is a multi-disciplinary university structured around five disciplinary sectors spread over 17 components (faculties, schools, institutes) and one multi-disciplinary sector (including ESPE and IUT):\u2013 Arts, Letters, Languages and Humanities\u2013 Law and Political Science\u2013 Economics and Management\u2013 Health\u2013 Science and Technology",
-    "Official Link": "www.ucl.ac.uk",
+    "Official Link": "https://www.univ-amu.fr/en",
     "IISMA Link": "https://iisma.kemdikbud.go.id/info/s104-aix-marseille-university/",
     "Region": "Europe"
   },
@@ -976,7 +985,7 @@
     "Image": "https://i0.wp.com/iisma.kemdikbud.go.id/info/wp-content/uploads/2024/01/Limerick.png?fit=300%2C300&ssl=1",
     "Location": "Ireland",
     "Description": "Established in 1972, the University of Limerick (UL) is an independent, internationally focused university with over 18,500 students. Ranked as one of the top 100 Young Universities of the World according to Times Higher Education, UL is a young, energetic and enterprising university with a proud record of innovation in education and excellence in research and scholarship. As a Comprehensive university, UL offers programs across a wide range of disciplines, including arts, business, engineering and construction, health and medicine, information and communication technology, law, mathematics and natural sciences. UL has many marketing-leading programs and several which are unique in Ireland.",
-    "Official Link": "www.ucl.ac.uk",
+    "Official Link": "https://www.ul.ie/",
     "IISMA Link": "https://iisma.kemdikbud.go.id/info/s96-university-of-limerick/",
     "Region": "UK & Ireland"
   },

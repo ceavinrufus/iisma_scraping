@@ -1,6 +1,6 @@
 [
   {
-    "University": "Boston University",
+    "University": "Boston University Metropolitan College",
     "GPA": "3.0",
     "IELTS": "6.0",
     "TOEFL": "84",
@@ -226,6 +226,13 @@
   {
     "University": "Sophia University",
     "GPA": "3.3",
+    "IELTS": "6.0",
+    "TOEFL": "79",
+    "DET": "Not accepted"
+  },
+  {
+    "University": "Taipei Medical University",
+    "GPA": "3.0",
     "IELTS": "6.0",
     "TOEFL": "79",
     "DET": "Not accepted"
@@ -743,7 +750,7 @@
   },
   {
     "University": "Loughborough University",
-    "GPA": "3.7",
+    "GPA": "3.0",
     "IELTS": "6.5",
     "TOEFL": "92",
     "DET": "120"

@@ -1,6 +1,6 @@
 [
   {
-    "University": "Boston University",
+    "University": "Boston University Metropolitan College",
     "Courses": [
       "Entrepreneurial Management",
       "Project Management",
@@ -26,7 +26,7 @@
       "International Trade Regional Economic Agreements",
       "Principles of Accounting for Global Organizations",
       "Principles of Finance for Global Organizations",
-      "\"Global Business & Professional Development Skills \""
+      "Global Business & Professional Development Skills"
     ]
   },
   {
@@ -734,6 +734,25 @@
     ]
   },
   {
+    "University": "Taipei Medical University",
+    "Courses": [
+      "International circumstance analysis",
+      "International etiquette & cross-cultural communication",
+      "Film appreciation & making",
+      "Oral tissue engineering",
+      "*The last humans & earth: identifying crisis in sustainability",
+      "*International health research",
+      "Python programming in medical data analysis",
+      "Neural networks & applications on bioinformatics",
+      "*Global environmental changes & health",
+      "*Field study in health security",
+      "Application of mass spectrometry analysis in clinical studies",
+      "Oral health & beyond: exploring medical advances",
+      "Advanced computer programming",
+      "Advanced paper writing"
+    ]
+  },
+  {
     "University": "National University of Singapore",
     "Courses": [
       "Material and Energy Balances",
@@ -773,7 +792,7 @@
       "Fabrications and Applications of BioMEMs",
       "World War II and the Era of Independent Southeast Asian Countries.",
       "Experiments in Physiology",
-      "Fundamental of Material Science",
+      "Fundamental of Materials Science",
       "Biostatistics",
       "Embedded System",
       "Introduction of Biotechnology",
@@ -1134,7 +1153,7 @@
   {
     "University": "University of Canterbury",
     "Courses": [
-      "Enterprise in Practice",
+      "Enterprise in Practice (Project)",
       "Land Journeys and Ethics",
       "Hospitality Marketing and Management",
       "Sustainable Tourism Enterprises and Destinations",
@@ -1184,11 +1203,9 @@
       "Fundamentals of Successful Marketing",
       "Character and Intercultural Capabilities in Organisations",
       "Digital Business and Supply Chain Management",
-      "Understanding Visual Culture",
       "Introduction to Forensic and Criminological Psychology",
       "Sustainable Geographies",
       "Understanding Visual Culture",
-      "Sustainable Geographies",
       "Introduction to Literacies",
       "The New Zealand Educational Context",
       "The World of Digital Business",
@@ -1233,12 +1250,36 @@
   {
     "University": "Maastricht University",
     "Courses": [
-      "Liberal Arts and Sciences",
-      "Artificial Intelligence",
-      "Data Science",
-      "Maastricht Science Programme",
-      "Sustainability Minor",
-      "European Law School"
+      "Parallel Programming",
+      "Machine learning",
+      "Logic for Artificial Intelligence",
+      "Game Theory",
+      "Introduction to Private Law",
+      "Advanced Academic Skills",
+      "Sustainable Development",
+      "Science in Action",
+      "Entrepreneurship: Theory and Practice",
+      "Social & Environmental Entrepreneurship",
+      "Commercialising Science & Technology",
+      "Sustainability and Social-Ecological Systems",
+      "Sustainability and Human Health",
+      "Systems Thinking Competency",
+      "From Climate Conflict to Climate Justice",
+      "Social and Sustainable Entrepreneurship",
+      "Collaboration Competency: Exploring Negotiation and Conflict Resolution",
+      "Project Sustainability",
+      "Living in A Technological Culture: Introduction to Science and Technology Studies",
+      "The Economics of Information",
+      "Globalization and Inequality: Perspectives on Development",
+      "The Social Study of Environmental Problems: Between Nature, Society and Politics",
+      "The Law of The European Institutions",
+      "International Trade Law: Globalization, Trade and Development",
+      "Digital Media: Digitalization, Digital Cultures and User Practices",
+      "European Integration: History and Theory",
+      "International Law",
+      "The Digital Enterprise",
+      "Entrepreneurship",
+      "Economics and Society in Contemporary Asia"
     ]
   },
   {
@@ -1466,7 +1507,9 @@
       "Globalization, Human Development and Sustainability: Politics and Policies in the Framework of the 2030 Agenda",
       "Great Ideas that Have Shaped our World: From the Axial Age to the Artificial Intelligence Revolution",
       "Innovation and the Law. How Technology Changes the Legal System",
-      "Laws of Creativity. The Impact of Legal Systems on Artistic Practices and Other Creative Endeavors"
+      "Laws of Creativity. The Impact of Legal Systems on Artistic Practices and Other Creative Endeavors",
+      "Literary texts: interpreting, dialoguing, creating",
+      "What is news: truth, disinformation and hegemony?"
     ]
   },
   {
@@ -1486,8 +1529,7 @@
       "Latin Culture and Literature: Latin Language",
       "Ancient Greek Culture and Literature: Ancient Greek Language",
       "Ancient Greek History",
-      "Italian Culture and Literature",
-      "Classical Archeology"
+      "Italian Culture and Literature"
     ]
   },
   {
@@ -1563,21 +1605,43 @@
     "Courses": [
       "Economic Diplomacy of the Republic of Belarus",
       "Republic of Belarus in integration associations",
+      "Design Thinking",
+      "English for Business Communication",
+      "Cross-Cultural Communication Practices",
+      "Introduction to Python Programming",
+      "Language of Mass Media",
+      "Critical Reading",
+      "Academic Writing",
       "Historical and cultural heritage of Belarus",
-      "Traditional Belarusian Culture, Modern Economy and Law"
+      "Traditional Belarusian Culture, Modern Economy and Law",
+      "Law in Modern Society",
+      "Privacy and Data Protection",
+      "Art of Parliamentary Debate",
+      "Project Development and Management",
+      "Information Technologies and Social Transformation",
+      "Psychology of mental processing"
     ]
   },
   {
     "University": "Aalto University",
     "Courses": [
-      "Entrepreneurship",
-      "Self-leadership",
+      "Starting up",
+      "Enterpreneurship Essentials",
+      "Good Life Engine",
       "Product Analysis",
-      "Product development",
-      "Electrical engineering",
-      "Global competence",
-      "Intercultural communication",
-      "Computer Science"
+      "Product Sustainability",
+      "Principles of Algorithmic Techniques",
+      "Human-Computer Interaction",
+      "Machine Learning",
+      "Web Software Development",
+      "Information Security",
+      "Signals and Systems",
+      "Software Engineering",
+      "Logic and hard computational problems",
+      "Basics in Electronics",
+      "Finnish, Finnish culture",
+      "Developing Global Competence: Working in an International Virtual Team",
+      "Intercultural communication"
     ]
   },
   {
@@ -1686,12 +1750,26 @@
   {
     "University": "Charles University",
     "Courses": [
-      "Machine Learning in Computer Vision",
-      "Management and Organizational Behavior",
+      "Cities in Civilization",
+      "History of Human Rights in International Relations",
+      "Iconology: Art-historical and Philosophical Aspects of Reading the Cultural Phenomena",
       "Preparatory Seminar for Introduction to European History",
-      "The Human Condition: Introduction to Philosophical Anthropology",
       "Theory of Strategic Interaction",
-      "Understanding a small state: Czech Republic in a nutshell"
+      "Behavioral Economics",
+      "Introduction to Intellectual History: Approaches and Methods",
+      "Understanding a small state: Czech Republic in a nutshell",
+      "Czech for Beginners \u2013 Survival Skills",
+      "Introduction to Machine Learning with Python",
+      "Machine Learning in Computer Vision",
+      "Introduction to Computer Linguistics",
+      "Introduction to Robotics",
+      "Introduction to Computer Graphics",
+      "The Human Condition: Introduction to Philosophical Anthropology",
+      "Cybersecurity: Concepts and Practice",
+      "Cross-Cultural Studies",
+      "Approaches to Conflict and Violence",
+      "Introduction to cyberpsychology",
+      "Management and Organizational Behavior"
     ]
   },
   {
@@ -2336,12 +2414,21 @@
       "ENGLISH AS A FOREIGN LANGUAGE",
       "A SUSTAINABLE WORLD?",
       "INTRODUCTION TO DIGITAL MEDIA",
+      "Introduction to Politics and International Relations",
+      "International Relations",
+      "From Kingdom to Republic: IRISH HISTORY, 1660-1960",
+      "Celtic Civilisation: Culture, Language and Representations",
+      "The Psychology of Work",
       "BROADENING: COMMUNICATION ACROSS CULTURES",
       "PRINCIPLES OF INTERNATIONAL BUSINESS",
       "INTRODUCTION TO NEW MEDIA AND CULTURAL STUDIES",
       "INTRODUCTION TO IRISH FOLKLORE",
       "INTRODUCTION TO IRISH TRADITIONAL MUSIC & DANCE",
-      "MARKETING"
+      "MARKETING",
+      "Language and Society in Ireland",
+      "New Media, Language and Globalisation",
+      "Introduction to Journalism",
+      "Irish Literary Revolutions 1880 - 1930"
     ]
   },
   {
