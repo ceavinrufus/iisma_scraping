@@ -1,3 +1,5 @@
+# IISMA Data Scraping
+Disclaimer: The scraping result may not be 100% correct. Thus, it still requires post-processing. https://docs.google.com/spreadsheets/d/1CxKldjQMGvQGZABZF5aDsXDnE-KDC1bzL26TIT9CYkQ/edit?usp=sharing
 1. Make a _virtual environment_ with this command
    ```
    python -m venv venv
